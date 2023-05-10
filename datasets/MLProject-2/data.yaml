@@ -1,0 +1,12 @@
+names:
+- license
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: mlproject-cqr3c
+  url: https://universe.roboflow.com/mlproject-iqfav/mlproject-cqr3c/dataset/2
+  version: 2
+  workspace: mlproject-iqfav
+test: ../test/images
+train: ../datasets/MLProject-2/train/images
+val: ../datasets/MLProject-2/valid/images
